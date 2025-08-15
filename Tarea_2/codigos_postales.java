@@ -1,3 +1,5 @@
+package Tarea_2;
+
 import java.io.BufferedReader; //Importar el BufferedReader que será el escaner
 import java.io.FileReader; //Lo anterior pero para leer el archivo
 import java.io.IOException; //Para las excepciones 
